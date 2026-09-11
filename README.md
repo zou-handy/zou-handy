@@ -37,6 +37,8 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 小程序已经正式上线；仓库首页提供可扫码体验的小程序码与完整功能演示视频，同时明确记录了当前源码快照与最后一次线上发布版本之间的边界。
 
 `WeChat Mini Program` · `JavaScript` · `CloudBase` · `AI Image Generation` · `Image Processing` · `GitHub Actions`
+<img width="671" height="377" alt="image" src="https://github.com/user-attachments/assets/bd89c6be-e9b9-4314-bb84-ab4f05710442" />
+<img width="671" height="377" alt="image" src="https://github.com/user-attachments/assets/dd13eece-0664-4416-8a01-780e1bcf3904" />
 
 ### [Halloween Wayfinder 互动场景]
 治愈系幽灵小游戏
