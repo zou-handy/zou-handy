@@ -9,7 +9,6 @@
 ![Java](https://img.shields.io/badge/Java%2017-Spring%20Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**广州新华学院 · 数据科学与大数据技术（2024–2028）｜ 
 
 </div>
 
