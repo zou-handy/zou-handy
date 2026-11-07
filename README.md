@@ -9,17 +9,16 @@
 ![Java](https://img.shields.io/badge/Java%2017-Spring%20Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**广州新华学院 · 数据科学与大数据技术（2024–2028）｜ 前深圳白无常设计有限公司（[白无常C4D · AI × Lab](https://www.psc4d.cn) / [积木岛AI](https://www.aixc4d.com)）实习生**  
-🔍 *专注方向：AI Agent 工具链与沙箱运行时 · 跨端浏览器自动化 (CDP) · 微信小程序与 3D 交互开发*
+**广州新华学院 · 数据科学与大数据技术（2024–2028）｜ 
 
 </div>
 
 ---
 
-## 🚀 代表项目 / Featured Projects
+
 
 ### 1. [年画薪造数字坊 · 佛山非遗木版年画 AI 创作微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
-**Status: Live v2.2 · 校内三下乡第一名**
+
 
 <img src="4a7ea05b7de18481673485bf08163164.jpg" alt="年画薪造数字坊微信小程序码" width="200" />
 
