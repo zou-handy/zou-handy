@@ -1,11 +1,5 @@
 <div align="center">
 
-# zou-handy · Zou Hengdian
-
-### Creative Developer · AI Tools · Game & Interactive Experiences
-  
-I build practical creative tools, AI-assisted workflows, games and interactive experiences.
-
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
@@ -19,10 +13,6 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 </div>
 
-
-> I like turning visual ideas into working software, then documenting the architecture, trade-offs and delivery process so the project can be understood and continued by others.
-
-## 精选公开项目 / Featured Public Project
 
 ### [年画薪造数字坊 · 微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
 
