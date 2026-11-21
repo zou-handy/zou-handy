@@ -16,7 +16,19 @@
 
 
 
-### 1. [年画薪造数字坊 · 佛山非遗木版年画 AI 创作微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
+### 1. [AGY Studio · 面向 `agy acp` 的免构建移动端个人 Agent 座舱](https://github.com/zou-handy/agy-studio)
+
+面向订阅 Google AI / Antigravity 生态开发者的本地优先移动 Agent 宿主。通过标准 `agy acp` 协议将主力手机变成 7×24 本地后端（零反代、零构建单页 HTML 随口热改 UI），内置双语思考链实时早停、面板内热更新与重启、框选引用追问、便签级清后台防丢缓存、官方双模型池周限额面板及免 Root `1×1` 零功耗保活；支持一根数据线或事件驱动无线映射上电脑大屏，并配合 `phone-agent-bridge` 在机房公用电脑免登录零残留跑完实训测试。
+
+`ACP` · `Google Antigravity` · `Zero-Build PWA` · `Python stdlib` · `SQLite FTS5` · `Android Keepalive`
+
+- 🎬 **[3 分钟全自动实机演示视频（由手机内 AGY Studio 自主调用工具录屏、配音并合成）](https://github.com/zou-handy/agy-studio/releases/download/v0.1.0/agy_studio_demo_final.mp4)**
+
+<img width="480" alt="AGY Studio 实机 16 宫格演示" src="https://raw.githubusercontent.com/zou-handy/agy-studio/main/docs/preview_16grid.jpg" />
+
+---
+
+### 2. [年画薪造数字坊 · 佛山非遗木版年画 AI 创作微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
 
 
 <img src="4a7ea05b7de18481673485bf08163164.jpg" alt="年画薪造数字坊微信小程序码" width="200" />
@@ -29,16 +41,16 @@
 
 ---
 
-### 2. [Bilibili Reader MCP Server (`bilibili-reader-mcp`)](https://github.com/zou-handy/bilibili-reader-mcp)
+### 3. [Bilibili Reader MCP Server (`bilibili-reader-mcp`)](https://github.com/zou-handy/bilibili-reader-mcp)
 支持 B 站 WBI 动态签名（`/x/player/wbi/v2`）的 Model Context Protocol (MCP) 服务。0.8 秒拉取充电/大会员专属视频字幕与原生章节打点，无字幕时自动回退音频切片转写与 FFmpeg 关键帧视觉抽帧。
 
-### 3. [Phone Agent Bridge (`phone-agent-bridge`)](https://github.com/zou-handy/phone-agent-bridge)
+### 4. [Phone Agent Bridge (`phone-agent-bridge`)](https://github.com/zou-handy/phone-agent-bridge)
 跨端 AI Agent 移动端受控浏览器 CDP 桥接、ColorOS 16 右上角迷你小窗保活（`launch-mini`）、USB 一线零登录态反控电脑（`pc-run`）与云沙箱 `go-fuse` 远程挂载 Everything-to-SQLite 零延迟缓存套件。
 
-### 4. [Agent Phone Toolkit (`agent-phone-toolkit`)](https://github.com/zou-handy/agent-phone-toolkit)
+### 5. [Agent Phone Toolkit (`agent-phone-toolkit`)](https://github.com/zou-handy/agent-phone-toolkit)
 手机三指截屏秒达电脑 `Ctrl+V`、100% 局域网物理直连零云端、支持息屏零功耗保活的跨设备剪贴板双向同步工具。
 
-### 5. [Convergent Memory · 多用户跨 AI 长期记忆服务端](https://github.com/zou-handy/convergent-memory/tree/main)
+### 6. [Convergent Memory · 多用户跨 AI 长期记忆服务端](https://github.com/zou-handy/convergent-memory/tree/main)
 基于 Java 17 + Spring Boot 3 实现的多用户长期记忆 REST API，包含 Token 鉴权、记忆检索/写入、AgentScope 两阶段收敛流程（`preview → apply`）与 Swagger 文档（曾部署于 DigitalOcean 完成现场演示，源码保留于 `main` 分支）。
 
 ---
