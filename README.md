@@ -45,7 +45,11 @@
 支持 B 站 WBI 动态签名（`/x/player/wbi/v2`）的 Model Context Protocol (MCP) 服务。0.8 秒拉取充电/大会员专属视频字幕与原生章节打点，无字幕时自动回退音频切片转写与 FFmpeg 关键帧视觉抽帧。
 
 ### 4. [Phone Agent Bridge (`phone-agent-bridge`)](https://github.com/zou-handy/phone-agent-bridge)
-跨端 AI Agent 移动端受控浏览器 CDP 桥接、ColorOS 16 右上角迷你小窗保活（`launch-mini`）、USB 一线零登录态反控电脑（`pc-run`）与云沙箱 `go-fuse` 远程挂载 Everything-to-SQLite 零延迟缓存套件。
+专为公用机房电脑与受限桌面设计的零残留 Agent 外肢套件：支持 **免数据线 `:443` 纯内存一行命令 + 屏幕一次性 6 位配对码远程接管**（适配手机豆包工作模式 / WorkBuddy / Claude Code，5 次防爆破自动轮换、下课关窗即刻销毁零残留、走出教室会话不断线），以及充电线 `10ms` 离线回环直连（`pc-run`）、ColorOS 16 右上角迷你小窗保活（`launch-mini`）与双浏览器并行 CDP 沙箱。
+
+`Streamable HTTP MCP` · `OAuth 2.0 + PKCE` · `Zero-Residue Limb` · `ADB Loopback` · `Chromium CDP` · `Android eBPF`
+
+- 🎬 **[80 秒真机实测演示（B 站在线直看 · BV1sB1Tz8Ez1）](https://www.bilibili.com/video/BV1sB1Tz8Ez1)**
 
 ### 5. [Agent Phone Toolkit (`agent-phone-toolkit`)](https://github.com/zou-handy/agent-phone-toolkit)
 手机三指截屏秒达电脑 `Ctrl+V`、100% 局域网物理直连零云端、支持息屏零功耗保活的跨设备剪贴板双向同步工具。
@@ -71,5 +75,7 @@
 
 - **Operit** — [Fix cloud embedding endpoint validation · PR #588](https://github.com/AAswordman/Operit/pull/588) (**Merged**)  
   修复云端向量接口多行或无效 URL 校验问题，增加内联错误提示与保存反馈。
+- **Operit** — [fix(floating): clamp window bounds on screen and sync delegate close state · PR #1501](https://github.com/AAswordman/Operit/pull/1501) (**Open · CI Passing**)  
+  真机定位并修复悬浮球在屏幕旋转与多窗切换时越界锁死左上角及关闭状态不同步的问题。
 - **dsh-TUI** — [fix(input): 历史翻页被补全菜单截胡 · PR #673](https://github.com/ccch1mneyyy/dsh-TUI/pull/673) (**Merged**, closes [Issue #672](https://github.com/ccch1mneyyy/dsh-TUI/issues/672))  
   修复输入框召回斜杠命令后方向键被补全菜单拦截导致无法找回输入草稿的 Bug。
